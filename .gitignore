@@ -1,0 +1,22 @@
+# Operating System files
+.DS_store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.pytest_cache
+
+# Git attributes
+.gitattributes
+
+
+# Database and CSV files
+*.db
+*.csv
+
+# Data directories
+data/
+images/
+saved_data_frames/
